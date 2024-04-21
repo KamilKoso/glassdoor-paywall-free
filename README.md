@@ -13,5 +13,5 @@ Install **[Tampermonkey](https://www.tampermonkey.net/)** browser extension
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 - [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
 
-Next install [this script from greasyfork](https://greasyfork.org/scripts/446567-gurufocus-ad-free)
+Next install [this script from greasyfork](https://greasyfork.org/pl/scripts/493084-glassdoor-paywall-free)
 
